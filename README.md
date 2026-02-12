@@ -7,15 +7,18 @@ It simulates a frontend project with a header and footer feature.
 ---
 
 ## Branch Names & Purpose
-| Branch Name             | Purpose                                         |
-| ------------------ | ----------------------------------------------------- |
-| `main`            | Base branch where all final code is merged            |
-| `feature-header`  | Implement and style the header section of the webpage |
-| `feature-footer`  | Implement and style the footer section of the webpage |
+
+| Branch Name                                            | Purpose                                               |
+| ------------------------------------------------------ | ----------------------------------------------------- |
+| `main`                                                 | Base branch where all final code is merged            |
+| `feature-header`                                       | Implement and style the header section of the webpage |
+| `feature-footer`                                       | Implement and style the footer section of the webpage |
+
 
 ---
 
 ## Git Commands Used Most Frequently
+```bash
 - git branch – check local branches
 
 - git checkout <branch> – switch branches
@@ -35,7 +38,7 @@ It simulates a frontend project with a header and footer feature.
 - git revert <commit> – undo a commit by creating a new revert commit
 
 - git stash / git stash pop – temporarily save local changes
-
+```
 
 ---
 
