@@ -1,5 +1,4 @@
 # Frontend-version-control-task-Mistura
-## Purpose of the Repo
 
 This repository demonstrates my understanding of version control workflows, Git commands, branch management, pull requests, merging and reversion practices. 
 It simulates a frontend project with a header and footer feature.
@@ -13,7 +12,7 @@ This project was completed as part of a version control deliverable to demonstra
 - Repository initialization and management  
 - Branching & collaboration  
 - Commits & pushes  
-- Pull requests, reviews, and merges  
+- Pull requests, reviews and merges  
 - Conflict resolution and reversion  
 
 ---
@@ -68,23 +67,30 @@ This project was completed as part of a version control deliverable to demonstra
 ---
 
 ## Reversion & Cleanup
-- Demonstrated a revert commit: added a minor comment in index.html and then reverted it.
 
-- Demonstrated a branch rename:
+- Demonstrated a **revert commit**:
+  
+  added a minor comment in **index.html** and then reverted it
+
+- Demonstrated a **branch rename**:
   
   feature-header - feature-header-renamed
 
 ---
 
 ## Lessons Learned
-- Git allows safe experimentation with features via branches.
 
-- Pull requests enable review and discussion before merging into main.
+- Always ensure you are on the correct branch before committing changes
 
-- Revert commits are useful for undoing mistakes without altering history.
+- Stashing is useful for temporarily saving changes when switching branches
 
-- Branch renaming and remote cleanup help maintain a clear repository structure.
+- Pull requests allow safe code integration and review workflow
 
-- Frequent commits with descriptive messages make collaboration and tracking easier.
+- Meaningful commit messages improve project clarity
 
+- Branch isolation keeps header and footer changes separate and manageable
+
+- Revert commits are useful for safely undoing mistakes
+
+- Frequent commits and proper branch management make collaboration and tracking easier
 
