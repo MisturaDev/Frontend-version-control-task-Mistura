@@ -29,7 +29,7 @@ This project was completed as part of a version control deliverable to demonstra
 ---
 
 ## Git Commands Used Most Frequently
-```bash
+
 - git branch – check local branches
 
 - git checkout <branch> – switch branches
@@ -49,7 +49,7 @@ This project was completed as part of a version control deliverable to demonstra
 - git revert <commit> – undo a commit by creating a new revert commit
 
 - git push origin --delete <branch> – delete remote branch
-```
+
 
 ---
 
