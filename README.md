@@ -6,6 +6,18 @@ It simulates a frontend project with a header and footer feature.
 
 ---
 
+## Objective
+
+This project was completed as part of a version control deliverable to demonstrate understanding of:
+
+- Repository initialization and management  
+- Branching & collaboration  
+- Commits & pushes  
+- Pull requests, reviews, and merges  
+- Conflict resolution and reversion  
+
+---
+
 ## Branch Names & Purpose
 
 | Branch Name                                            | Purpose                                               |
@@ -43,11 +55,14 @@ It simulates a frontend project with a header and footer feature.
 ---
 
 ## Pull Requests & Merges
-- Two feature branches were merged into main via pull requests:
-  1. feature-header - main
-  2. feature-footer - main
 
-- Review comments were added for the footer PR to simulate a review process.
+1. **Feature Header:** Merged into `main`  
+   - [PR #1 - Feature Header](https://github.com/MisturaDev/Frontend-version-control-task-Mistura/pull/1)  
+
+2. **Feature Footer:** Merged into `main`  
+   - [PR #2 - Feature Footer](https://github.com/MisturaDev/Frontend-version-control-task-Mistura/pull/2)  
+
+> All PRs were reviewed, tested locally and merged successfully.
 
 
 ---
@@ -56,6 +71,7 @@ It simulates a frontend project with a header and footer feature.
 - Demonstrated a revert commit: added a minor comment in index.html and then reverted it.
 
 - Demonstrated a branch rename:
+  
   feature-header - feature-header-renamed
 
 ---
