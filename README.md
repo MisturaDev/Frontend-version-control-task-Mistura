@@ -34,21 +34,21 @@ This project was completed as part of a version control deliverable to demonstra
 
 - git checkout <branch> – switch branches
 
-- git branch -m <old> <new> – rename a branch
-
 - git add <file> – stage changes
 
 - git commit -m "<message>" – commit staged changes
 
 - git push origin <branch> – push commits to remote
 
-- git push origin --delete <branch> – delete remote branch
-
 - git merge <branch> – merge a branch into current branch
+
+- git stash / git stash pop – temporarily save local changes
+
+- git branch -m <old> <new> – rename a branch
 
 - git revert <commit> – undo a commit by creating a new revert commit
 
-- git stash / git stash pop – temporarily save local changes
+- git push origin --delete <branch> – delete remote branch
 ```
 
 ---
@@ -74,7 +74,7 @@ This project was completed as part of a version control deliverable to demonstra
 
 - Demonstrated a **branch rename**:
   
-  feature-header - feature-header-renamed
+  **feature-header - feature-header-renamed**
 
 ---
 
