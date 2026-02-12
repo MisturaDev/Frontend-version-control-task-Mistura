@@ -68,8 +68,9 @@ This project was completed as part of a version control deliverable to demonstra
 
 ## Screenshots of Merged PRs
 
-![Header PR](screenshots/pr-header.png) ![Footer PR](screenshots/pr-footer.png)
-
+| Header | Footer |
+|------|--------|
+| ![Header PR](screenshots/pr-header.png) | ![Footer PR](screenshots/pr-footer.png)  |
 
 ---
 
